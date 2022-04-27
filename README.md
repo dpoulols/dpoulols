@@ -1,5 +1,5 @@
 <h1> Hey! Welcome to my page 👋</h1>
-I’m Pablo Ramos, I´m Informatics Engineering student at Universidad of Granada (Andalusia, Spain).
+I’m Pablo Ramos, I´m Informatics Engineering student at Universidad of Granada (Andalusia, Spain). I was using GitLab instead Github so I will be importing some of the projects progressively to Github.
 <h3>Things I code</h3>
 <p>
   <img alt="Javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
